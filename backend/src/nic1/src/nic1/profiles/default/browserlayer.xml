@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layers>
+  <layer interface="nic1.interfaces.INic1Layer"
+         name="nic1"
+  />
+</layers>

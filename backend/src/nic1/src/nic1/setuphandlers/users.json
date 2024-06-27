@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "darren.hennessy@novecom.com.au",
+      "properties": {
+        "fullname": "Novecom Information Centre",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "nic1"
+    }
+  ],
+    "team": [
+  ]
+}

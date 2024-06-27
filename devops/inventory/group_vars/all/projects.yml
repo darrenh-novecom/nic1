@@ -1,0 +1,7 @@
+---
+project_folders:
+  # Path to store nic1.novecom.com.au postgres data
+  - path: "/srv/nic1/data"
+    owner: 999
+    group: 999
+    mode: "0750"
