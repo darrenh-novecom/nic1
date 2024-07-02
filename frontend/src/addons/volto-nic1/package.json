@@ -49,9 +49,11 @@
     "@eeacms/volto-accordion-block",
     "@kitconcept/volto-slider-block",
     "@eeacms/volto-matomo",
-    "@plonegovbr/volto-code-block"
+    "@plonegovbr/volto-code-block",
+    "@codesyntax/volto-listingadvanced-variation"
   ],
   "dependencies": {
+    "@codesyntax/volto-listingadvanced-variation": "*",
     "@eeacms/volto-accordion-block": "*",
     "@eeacms/volto-matomo": "*",
     "@kitconcept/volto-slider-block": "*",

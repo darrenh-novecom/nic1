@@ -86,7 +86,7 @@ docker-info: ## Docker: Information about remote docker context
 .PHONY: server-setup
 server-setup: bin/ansible ## Server: Configure a remote server
 	@echo "$(GREEN)==> Server: Configure a remote server with Ansible$(RESET)"
-	./bin/ansible-playbook playbooks/setup.yml --limit ${CONTEXT}
+	./bin/ansible-playbook playbooks/setup.yml --limit ${CONTEXT} 
 
 .PHONY: stack-deploy
 stack-deploy: ## Deploy stacks: $(STACK_NAME)
